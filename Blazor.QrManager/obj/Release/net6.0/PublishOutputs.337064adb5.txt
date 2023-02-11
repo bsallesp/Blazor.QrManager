@@ -1,0 +1,1 @@
+C:\Users\bsall\Desktop\Blazor.QrManager\Blazor.QrManager\bin\Release\net6.0\publish\web.config

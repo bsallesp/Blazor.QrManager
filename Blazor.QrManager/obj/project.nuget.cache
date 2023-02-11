@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YmyRpOXAdkZJTeTQsgYlcQJzAU5kMfmWKVIG3FJYDrLLoptM2Ymc+kmD6n0NsEoD3O9RbRLasTZKv7a7vnIAtw==",
+  "dgSpecHash": "oadMJACzcuUzGIYkBsMOgCzExDJHgMVD7TeS/1F0w3MVduB7J8Wd3VOUOb2IDkJ28iTJabHcM4IA52zL8dq3Kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bsall\\Desktop\\Blazor.QrManager\\Blazor.QrManager\\Blazor.QrManager.csproj",
   "expectedPackageFiles": [
@@ -34,8 +34,7 @@
     "C:\\Users\\bsall\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\bsall\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\bsall\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\bsall\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\bsall\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.12.nupkg.sha512"
+    "C:\\Users\\bsall\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
